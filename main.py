@@ -3,7 +3,8 @@ from telebot import types
 import NN
 import PIL
 
-bot = telebot.TeleBot('5541199205:AAG8vGUcWuRVYnnPaz9YMDFbEeMf-vsuQ2Y')
+botkey = #  here is key of bot
+bot = telebot.TeleBot(botkey)
 imagesToLoad = []
 
 
